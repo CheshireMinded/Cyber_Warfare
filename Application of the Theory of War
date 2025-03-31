@@ -1,0 +1,273 @@
+Application of the Theory of War
+
+The students will write a paper relating the Principles of War (von Clauswitz), The Art of War (Sun Tzu) or other traditional military theory to cyber warfare.  
+The focus should include a limited scope of theory and how it can be applied or how it is refuted by the conditions of cyber warfare.  The paper must include at least one example of actual cyber warfare activity.
+
+
+Application of the Theory of War
+Lauren A Hall
+Western Washington University
+WI25 CISS 473: Cyber Warfare 202510
+Erik Fretheim
+02/04/2025
+H a l l | 2
+Contents
+I. Introduction ............................................................................................................ 3
+II. Sun Tzu’s Scope of Theory of Deception and Its Application in Cyber Warfare ............. 5
+III. The Role of Deception in Cyber Warfare: Dragonfly 2.0, U.S. Electric Grid Hack ........... 8
+IV. Where Sun Tzu’s Principles Fall Short in Cyber Warfare ...................................... 10
+V. Conclusion: Cyber Warfare as a Core Component of Modern Conflict........................... 11
+H a l l | 3
+I. Introduction
+Overview of Cyber Warfare
+Throughout history, warfare has constantly adapted to battlefield technological
+advancements, which shifted political and economic power between nations and regions.
+This fluctuating balance of warfare and technologies with economies and politics has
+redrawn borders and led to the rise and fall of empires, redrawn borders, and redefined the
+exact nature of conflict. From the traditional battlefields of land and sea to the air, space, and
+now the digital domain, warfare has gone beyond physical confrontations to the invisible and
+persistent realm of the digital domain.
+With technological network advancements, cyber warfare is pivotal when considering
+strategic advancements in military strategy. Unlike conventional conflicts, cyber is remote,
+persistent, oftentimes unattributable, allowing for adversaries to be borderless. As a strategic
+tool, cyber operations can affect a region’s security, infrastructure, or politics without a direct
+confrontation.
+A specific example of cyber warfare’s strategic capabilities is the 2017 Dragonfly 2.0 U.S.
+Electric Grid Hack, a cyber espionage campaign by alleged nation-state Russian actors. This
+attack, a continuation of the original Dragonfly campaign in 2014, targeted the U.S. energy
+sector through supply chain infiltration. By exploiting numerous third-party vendors, the
+attackers gained access to critical infrastructure without immediate detection. The method
+used by the attackers closely aligned with the principles of indirect warfare outlined by Sun
+Tzu in The Art of War which described deception and manipulation tactics.
+H a l l | 4
+Sun Tzu’s Art of War
+Sun Tzu was a military strategist who wrote The Art of War, an approach to warfare, from the
+Warring States in ancient China, approx. 475-221, BC (Sun Tzu 2025). The Art of War is still
+relevant today, defined by core elements of Grand Strategy and Battlefield Deception, and
+placing “emphasis on deception, misdirection, and attacking weaknesses, instead of engaging
+in direct confrontation.” (Sun Tzu 2025).
+Grand Strategy:
+“Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence
+consists in breaking the enemy's resistance without fighting.”
+(Tzu, 1994)
+Tzu taught that to win without fighting (Attack by Stratagem) are the best outcomes
+achievable. This outcome can be achieved through intelligence, deception, and strategic
+positioning.
+Battlefield Deception:
+“All warfare is based on deception. Hence, when able to attack, we must seem unable; when
+using our forces, we must seem inactive; when we are near, we must make the enemy believe
+we are far away; when far away, we must make him believe we are near.”
+(Tzu, 1994)
+Tzu taught that if Grand Strategy could not be achieved, and conflict was unavoidable, then
+the use of deception techniques should be deployed. These included anything that would
+create confusion, sow chaos, or exploit weaknesses in the enemy such as ambushes,
+H a l l | 5
+psychological manipulation, and economic, political, or ideological strategies to make the
+enemy collapse from within.
+Principle of Deception
+Tzu places an “emphasis on deception, misdirection, and attacking weaknesses” (Sun Tzu
+2025) which is highly applicable to modern cyber warfare. However, while Battlefield
+Deception can be considered still highly relevant, Grand Strategy cannot transcend or be
+directly conceptualized in today’s cyber warfare environment due to its continuous,
+borderless, and persistent nature and does not account for some of the complexities of
+modern cyber conflicts.
+In campaigns such as Dragonfly 2.0, the attackers exploited and leveraged supply chain
+vulnerabilities over an extended period, gaining access to critical infrastructure without a
+direct confrontation. While deception is a core tenet in both traditional and cyber warfare,
+newer technologies introduce layers and complexities that Sun Tzu’s framework does not
+fully account for.
+II. Sun Tzu’s Scope of Theory of Deception and Its Application in Cyber
+Warfare
+Sun Tzu’s Conception of Deception in The Art of War
+In one of the core elements, Battlefield Deception, Sun Tzu wrote “All warfare is based on
+deception” (Tzu, 1994). Tzu emphasized that by controlling how the enemy perceives the
+information it was receiving about oneself [the attacker or defender] that this allowed one to
+control the flow of information to one’s enemy. In The Art of War, Sun Tzu lays bare the
+H a l l | 6
+basic principles of deception as: “exploiting psychological weaknesses, manipulating
+expectations, and attacking where the enemy least expects” (Tzu, 1994). This philosophy
+reconstructs warfare from a contest of strength in a match of perception and manipulation,
+with an objective is to control the engagement. By controlling engagement, a deceptive force
+can force an enemy to responsively react. This forces the enemy into predictable reactions
+based on false assumption, which allow the attacker to dictate the engagement.
+How Deception Translates to Cyber Warfare
+This is highly applicable to cyber warfare, as attackers rely on deception at every state, from
+recon to exploitation, and can manipulate their attack environments accordingly to hide their
+identities and exploit vulnerabilities. Specifically, attackers use misdirection to hide identities
+and mask origins, using obfuscation techniques. They may use stealth [obfuscation] and
+persistence to hide in the network or organization until lateral movement or correct timing. Or,
+they may use distractions, such as creating chaos elsewhere, while breaching security with a
+trusted third-party vendor to successfully bypass security while a defender is engaged with a
+perceived [incorrect] threat.
+Sun Tzu places emphasis on winning without direct conflict, a principle that can convert easily
+into cyber warfare. The deception-based techniques align with modern hacking techniques,
+where attackers do not directly engage, but will infiltrate, manipulate, and then weaken from
+within.
+Cyber Warfare and Supply Chain Vulnerabilities
+Supply chains are logistical assets and operational support for civilian and military infrastructure.
+Hence, they can represent prime targets and major vulnerabilities. One of the main vulnerabilities
+H a l l | 7
+identified is through the risks associated with a third-party, or outside partner, provider, or
+customer. An attacker may gain access by infiltrating the third-party vendor, software provider,
+or service contractor, and then gain access to a more secure part of a system or network which
+exploits a trust ecosystem (Korolov, 2021). By exploiting and compromising one trust
+relationship with a third-party entity, an attacker now has access to several different targets,
+based on the principle of how contractual capitalistic relationships work; the companies rely on
+the third-party providers, grant trust, and often do not enforce security methods.
+The potential consequences of supply chain attacks have cascading effects. Owing to the
+interconnectedness of supply chains, a single breach has been known to extend into many
+different organizations and infrastructure, as is the case with Dragonfly 2.0. This type of attack
+can go unnoticed because they bypass normal cybersecurity measures; thus, they can remain
+undetected for long periods of time.
+Sun Tzu acknowledged the strategic importance of supply chains, writing about unsustainable
+positions and depleting resources to weaken an enemy prior to engagement because this would
+make them vulnerable to attack.
+In a traditional sense of warfare, attacking supply chains would mean attacking food supplies and
+blocking trade routes. In cyber warfare, the same principles apply, but the attackers are
+compromising the infrastructure. The goal is: espionage, sabotage, and economic instability.
+Hence, supply chain vulnerabilities still play a modern role by allowing attackers in digital
+domains an indirect approach to undermining an enemy’s resources, which in present-day sense
+are critical infrastructure targets, through deception while avoiding direct confrontation. This
+aligns with Sun Tzu’s teachings in The Art of War, which place emphasis on targeting an
+H a l l | 8
+enemy’s weak points indirectly before confronting the enemy directly. This was a key tactic used
+by the alleged nation-state Russian actors in the Dragonfly 2.0 campaign when they exploited
+third-party vendors and gained persistent access to critical energy infrastructure sector networks,
+and evading detection by using the trust relationship between two entities that had previously
+been established.
+III. The Role of Deception in Cyber Warfare: Dragonfly 2.0, U.S.
+Electric Grid Hack
+Background: Dragonfly 2.0 as a Cyber Deception Campaign
+A CISA/FBI Alert (TA18-074A) reported that the Dragonfly 2.0 campaign (2016-2018) was
+a Russian nation-state espionage effort and intrusion effort, which “compromised third-party
+vendors which had established trust relationships with energy sector companies, used
+deception and obfuscation techniques to hide their true identities and origins, and gained
+persistent access to energy sector networks, mapped industrial controls systems, and setup
+disruption capabilities” (CISA, 2018). The attackers were able to apply deception and bypass
+security, position themselves for long-term infiltration and gathering of information, and then
+wait for an opportunity of either network or physical upheaval opportunities.
+How the Attack Happened: Deceptive Cyber Tactics Used by Dragonfly 2.0
+The Russian nation-state attackers were able to use methods that directly aligned with Sun
+Tzu’s methods of deception and indirect engagement. Sun Tzu believed that a key to victory
+was to bypass an enemy’s strength and exploit their weakness, and had written, “Attack him
+where he is unprepared, appear where you are not expected,” (Tzu, 1994). Dragonfly 2.0
+attackers followed this tenet, which exploited the weakest link: human behavior and weak
+H a l l | 9
+security. This allowed the attackers to use the deception methods they had, bypass main
+security, and maintain stealth and persistence for such a period Dragonfly 2.0 attackers
+achieved this by:
+1. Supply Chain Attacks: Exploiting Trusted Relationships CISA/FBI Alert (TA18-074A) has
+confirmed that entry point for Dragonfly 2.0 was through a third-party vendor, which
+supplied operational support and software. The energy company would be provided with
+software for an update, use the software, which Dragonfly 2.0 had embedded with malware
+(unknowingly to the entity), and then Dragonfly now has access.
+2. Spear Phishing and Watering Hole Attacks As a part of a social-engineering campaign,
+Dragonfly 2.0 would use spear phishing and watering hole accounts to try to steal credentials
+from employees working in the energy sector (CISA, 2018).
+Impact of the Attack: The Effectiveness of Cyber Deception
+While the Dragonfly 2.0 campaign did not have any reports of any major disruptions, this is
+not an isolated incident, but part of a much larger trend that has been targeting U.S. critical
+infrastructure, according to Cyber Threat and Vulnerability Analysis of the U.S. Electric
+Sector (Electric Grid Security and Resilience - Department of Energy 2016). They report,
+that, “since 2009, nation-state actors have been using advanced cyber tools to probe, map,
+and infiltrate critical infrastructure services.”
+Dragonfly 2.0 did not cause any disruption or damage, the attack appears to be part of a long-
+term plan of information gathering attempts to map critical infrastructure services, while also
+implanting long-term stealthy persistent threats, for a positioning effort, that will be able to
+do the disruption or damage, as (when) needed. Thus, we can suggest that Dragonfly 2.0 was
+H a l l | 10
+not the first, but just one of many, to continue to lay groundwork for positioning of a future
+cyber-attack.
+“He who is prudent and lies in wait for an enemy who is not, will be victorious.”
+(Tzu, 1994)
+IV. Where Sun Tzu’s Principles Fall Short in Cyber Warfare
+In a modern context, Sun Tzu’s theories about deception, indirect engagement, and exploiting
+weakness are highly relevant. However, the digital domain introduces new intricacies that
+challenge the direct application of Art of War. As warfare has evolved and integrated
+advanced technologies, the nature of deception and engagement and strategic outcomes has
+changed.
+Tzu emphasized swift, strategic, decisive war, but cyber warfare is continuous, borderless,
+and oftentimes unattributable. The Dragonfly 2.0 campaign exhibits characteristics of
+deception as Sun Tzu describes but lacks the constraints of his framework.
+Tzu gives very clear definitions for how warfare, or victory, is defined. But in cyber warfare,
+where these conditions are [again] continuous, borderless, and unattributable, there is a lack
+of defined start and end, lack of defined adversary lack of defined boundary. This challenges
+Sun Tzu’s framework and its applicability, requiring a new interpretation and a dynamic and
+adaptable interpretation to cyber warfare.
+With obfuscation, cyber warfare complicates the Sun Tzu’s principle of ‘knowing the enemy’
+and creates a significant challenge to attribution. An attacker can mask identities throughH a l l | 10
+not the first, but just one of many, to continue to lay groundwork for positioning of a future
+cyber-attack.
+“He who is prudent and lies in wait for an enemy who is not, will be victorious.”
+(Tzu, 1994)
+IV. Where Sun Tzu’s Principles Fall Short in Cyber Warfare
+In a modern context, Sun Tzu’s theories about deception, indirect engagement, and exploiting
+weakness are highly relevant. However, the digital domain introduces new intricacies that
+challenge the direct application of Art of War. As warfare has evolved and integrated
+advanced technologies, the nature of deception and engagement and strategic outcomes has
+changed.
+Tzu emphasized swift, strategic, decisive war, but cyber warfare is continuous, borderless,
+and oftentimes unattributable. The Dragonfly 2.0 campaign exhibits characteristics of
+deception as Sun Tzu describes but lacks the constraints of his framework.
+Tzu gives very clear definitions for how warfare, or victory, is defined. But in cyber warfare,
+where these conditions are [again] continuous, borderless, and unattributable, there is a lack
+of defined start and end, lack of defined adversary lack of defined boundary. This challenges
+Sun Tzu’s framework and its applicability, requiring a new interpretation and a dynamic and
+adaptable interpretation to cyber warfare.
+With obfuscation, cyber warfare complicates the Sun Tzu’s principle of ‘knowing the enemy’
+and creates a significant challenge to attribution. An attacker can mask identities through
+H a l l | 11
+VPN’s, proxy networks, false-flag tactics, routing, or using compromised accounts to evade
+detection. According to the CISA/FBI(TA18-074A) report, the Dragonfly 2.0 campaign
+Russian nation-state hackers evaded detection by disguising themselves to appear as a
+Chinese cyber group (CISA, 2018).
+Sun Tzu also emphasized strategic planning, phases, and boundaries associated with warfare.
+Cyber warfare operates over a network and lacks these clear, defined boundaries. Also, as
+established with the Dragonfly 2.0 case example, attackers had gained access with plans for
+long-term persistent positioning (which was established). Cyber warfare does not have
+borders and can attack multiple entities at the same time.
+The most structural difference between the traditional framework of Sun Tzu’s The Art of
+War and a modern framework, is that Sun Tzu clearly defines a start to warfare and an end,
+which is victory, he writes, “In war, then, let your great object be victory, not lengthy
+campaigns” (Tzu, 1994). Despite these differences, Sun Tzu and his teachings about
+deception remain valuable in modern cyber warfare.
+V. Conclusion: Cyber Warfare as a Core Component of Modern Conflict
+The Dragonfly 2.0 campaign demonstrates how Sun Tzu’s principles of deception
+misdirection, and indirect engagement are still relevant in warfare today. Sun Tzu wrote that,
+“The supreme art of war is to subdue the enemy without fighting,” (Tzu, 1994), which in
+cyber warfare attackers this principle to mean stealth and infiltration. Cyber warfare
+adversaries do not need to engage in physical attack, instead they focus operations on
+intelligence gathering, strategic positioning, and long-term disruption, as seen in the example
+in the Dragonfly 2.0 infiltration of third-party vendor access to critical system infrastructure.
+H a l l | 12
+Cyber warfare introduces new challenges, as it lacks clear physical [geographical]
+boundaries, is persistent, and is attribution is difficult. These challenges introduce layers and
+complexities to warfare that Sun Tzu’s framework does not fully account for. Considering if
+the definition is integrated and interpreted, then the evolution of cyber warfare can evolve
+dynamically and adaptively to create a modern framework strategy effectively.
+In The Art of War, Sun Tzu underscored the importance of adapting strategy to conditions,
+recognizing that warfare adapts with technological advancements. To remain effective,
+military strategy must evolve beyond Sun Tzu’s traditional doctrines, while embracing the
+core philosophies, and its principles must be reinterpreted for a modern digital domain.
+Future wars may not be fought only on battlefields, but in networks, infrastructure perhaps
+even space. As technology continues to evolve, it is imperative to strategically adapt and
+modernize in real-time if you want your national security and infrastructure to be resilient.
+H a l l | 13
+REFERENCE:
+CISA. (2018, March 16). Russian government cyber activity targeting energy and other critical
+infrastructure sectors: CISA. Cybersecurity and Infrastructure Security Agency CISA.
+https://www.cisa.gov/news-events/alerts/2018/03/15/russian-government-cyber-activity-
+targeting-energy-and-other-critical-infrastructure-sectors
+ICF International. (2016b, June). Electric Grid Security and Resilience - Department of Energy.
+energy.gov. https://www.energy.gov/sites/prod/files/2017/01/f34/Electric Grid Security and
+Resilience--Establishing a Baseline for Adversarial Threats.pdf
+Idaho National Laboratory. (2016, August). Cyber threat and vulnerability analysis of the U.S.
+electric ... energy.gov. https://www.energy.gov/sites/prod/files/2017/01/f34/Cyber Threat and
+Vulnerability Analysis of the U.S. Electric Sector.pdf
+Korolov, M. (2021, December 27). Supply chain attacks show why you should be wary of third-
+party providers. CSO Online. https://www.csoonline.com/article/561323/supply-chain-attacks-
+show-why-you-should-be-wary-of-third-party-providers.html
+Tzu, S. (1994). The Internet Classics Archive: The Art of War by Sun Tzu. The Internet Classics
+Archive | The Art of War by Sun Tzu. https://classics.mit.edu/Tzu/artwar.html
+Wikimedia Foundation. (2025c, January 24). Sun Tzu. Wikipedia.
+https://en.wikipedia.org/wiki/Sun_Tzu
