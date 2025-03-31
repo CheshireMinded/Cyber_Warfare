@@ -1,0 +1,224 @@
+Based on their experience, students will prepare a presentation and paper reflecting on the application of strategic thinking to cybersecurity in the organization.  
+Students will consider the impact of state and non-state actors on the future of cybersecurity and in how they will shape the cyber environment.  
+Students should base their strategic thinking on current observed trends, as well as perceived future directions. 
+As a part of their reflection, the students should propose specific concrete actions to be taken by businesses or other organizations in light of the strategic direction and relate those to warfare principles.
+
+
+
+Countering Digital Manipulation: Strategic Defense and Solutions Against Deepfake Warfare 
+Lauren A Hall 
+Western Washington University 
+WI25 CISS 473: Cyber Warfare 202510 
+Erik Fretheim 
+Mar 11 at 11:59pm 
+Countering Digital Manipulation: Strategic Defense and Solutions Against Deepfake Warfare 
+Driven by advances in AI, ransomware, and deepfakes, cybersecurity threats are becoming 
+increasingly evolved, and the need for strategic defenses has grown critical. Among these emerging risks, 
+deepfakes, which are AI-generated content that mimic real individuals, pose a unique challenge, 
+undermining trust and complicating efforts to maintain secure, reliable digital environments. Deepfakes 
+can be used to manipulate, exploit, and spread misinformation, public opinion, or impersonate people, 
+which in turn may threaten epistemic security and erode trust. According to Cooke et al. (2024), “AI has 
+empowered the deception capabilities of threat actors, permitting them to manufacture convincingly 
+realistic but fake digital content at unprecedented speed, scale, and degrees of precision.” Additionally, 
+the researchers noted that “the rapid scaling of these technologies has led to a dramatic uptick in their 
+abuse, particularly against individuals and corporations.” 
+The rise of deepfakes has amplified threats to the integrity of information, as these generated 
+medias make it difficult to distinguish between real and fake content. They can influence elections, 
+destabilize national security, and enable harassment. The U.S. Government Accountability Office (GAO, 
+2024) highlights that “malicious deepfakes could severely erode trust in democratic processes, spread 
+disinformation, and empower harassers, thereby creating widespread societal harm.” Furthermore, as 
+deepfakes become more sophisticated, they are increasingly being used as tools of disinformation and 
+psychological warfare, with the potential to influence public opinion and even military decision-making. 
+Hogan (2020) argues that “deepfakes could be weaponized to coerce or manipulate adversaries, 
+destabilize political regimes, and create crises that push decision makers into poor choices.” 
+Given the rapid advancement of deep-fake technology, which pose significant threats to 
+cybersecurity, organizations must implement a strong, strategic, multi-layered defense that incorporate 
+military warfare principles to effectively counteract the malicious use of fake media. By analyzing current 
+trends and the influence of both state and non-state actors, this paper will propose actionable 
+cybersecurity measures to protect organizational integrity, safeguard democratic processes, and defend 
+against the growing risks posed by AI-driven disinformation. 
+Strategic Thinking in Cybersecurity 
+Strategic thinking in cybersecurity involves applying military strategy principles to defend 
+against emerging cyber threats. Similarly, in military warfare, cybersecurity requires balancing offensive 
+and defensive strategies to predict adversarial tactics and neutralize threats before they escalate.  To aptly 
+adjust to network-based threats, the principles of irregular warfare may be applicable, which include: 
+• Defense in Depth: Adopting military fortification principles, defense in depth ensures multiple 
+cybersecurity layers, such as AI detection, digital verification tools, and multi-factor 
+authentication. These layers act as redundancies, mitigating potential damage if one defense fails. 
+• Deterrence and Response Strategy: In cybersecurity, deterrence mirrors military tactics by 
+demonstrating a readiness to respond to threats. Public awareness and clear response protocols 
+help deter adversaries. Rapid response mechanisms also ensure swift identification and correction 
+of manipulated content, minimizing the damage of deepfakes. 
+• Deepfakes in Cyber Warfare: Deepfakes are increasingly integrated into psychological operations 
+(Psy-Ops) by military actors, manipulating public opinion and undermining morale. As Nehring 
+(2024) notes, “deepfakes confuse enemy decision-making, destabilize societies, and spread 
+disinformation. They can alter reality in critical areas like elections and diplomacy, increasing 
+misinformation's impact on national security.” As Hogan (2020) highlights, “deepfakes can 
+influence adversary decisions, mislead military forces, and manipulate public sentiment, further 
+weaponizing synthetic media for strategic objectives.” 
+The Impact of State and Non-State Actors on Deepfake Threats 
+State Actors 
+State actors use deepfakes as tools for geopolitical influence and to disrupt political stability. For 
+instance, during the Ukraine conflict, a deepfake video of President Zelenskyy calling for surrender was 
+circulated to sap morale, even though it was quickly debunked (Pearson & Zinets, 2022). "As observed in 
+the Ukraine conflict, this deepfake video showing Ukrainian President Zelenskyy [calling for a surrender] 
+was circulated to disrupt morale and create confusion among Ukrainian forces" (Nehring, 2024). These 
+tactics highlight how deepfakes, when strategically deployed, can not only sway public opinion but also 
+disrupt military operations. While not always effective, they demonstrate the potential of deepfakes to 
+undermine leadership, influence public sentiment, and pose threats to national security. 
+The degradation of trust in information, largely fueled by the spread of manufactured media, 
+“undermines societies' ability to engage in collective and timely decision-making,” as noted by Cooke et 
+al. (2024). This highlights the concept of "epistemic security," which refers to a society's ability to trust 
+the veracity of the information it encounters. As deepfakes proliferate, this trust is severely compromised, 
+heightening vulnerability to political, economic, and social instability. The researchers with the Alan 
+Turing Programme note that “less epistemically secure societies [low trust] are more susceptible to 
+adversarial manipulation, making them less capable of effective crisis response, and weakening national 
+security” (Seger et al., 2020). This is particularly concerning when state actors deploy deep-fakes as part 
+of influence operations, as it not only manipulates public opinion but erodes the very trust that is 
+necessary for societal cohesion and effective decision-making. 
+State-affiliated influence operations have spread manufactured images and videos as part of 
+propaganda campaigns surrounding major political events, such as elections in Europe, Taiwan, U.S. 
+politics, and the Russo-Ukrainian conflict (Cooke et al., 2024). These examples show the global reach of 
+state-sponsored deepfake operations, influencing political landscapes and destabilizing societies through 
+misinformation. In espionage, deepfakes offer new methods for covert operations, allowing adversaries to 
+impersonate officials, fabricate the truth, or mislead entire nations. Sanchez et al. (2019) notes, “cyber 
+operations often mirror the covert operations used in irregular warfare, including deception and 
+confusion.” 
+Non-State Actors 
+Non-state actors, such as terrorists, hacktivists, and cybercriminals, exploit deepfakes for a 
+variety of malicious purposes. Terrorists and hacktivists use deepfakes to create propaganda, recruit 
+followers, and manipulate public opinion. While a deepfake video of a terrorist leader calling for violence 
+can amplify fear and incite unrest, a hacktivist can manipulate political narratives by creating falsified 
+videos of political leaders, leveraging psychological warfare tactics to provoke action or sway opinions.  
+Cybercriminals may use deepfakes to carry out financial fraud and identity theft by impersonating 
+high-ranking officials, bypassing security protocols, and gaining access to sensitive financial data. This 
+could potentially lead to financial crises or manipulate stock prices. As Busch & Ware (2023) note, 
+deepfakes can also be exploited to fabricate evidence of wrongdoing or incite violence, spreading false 
+narratives that provoke division and unrest. Moreover, deepfakes are powerful tools in psychological 
+warfare, manipulating emotions and further polarizing public opinion. By appealing to existing biases, 
+deepfakes can amplify divisive messages, exacerbating social tensions and fueling conflict. The “viral 
+nature” of digital media, as highlighted by Busch & Ware (2023), amplifies these effects, which makes 
+deepfakes a dangerous tool for destabilizing societies. 
+Current Trends and Future Directions 
+Current Trends 
+Deepfake technology has advanced rapidly due to AI and machine learning, making synthetic 
+media harder to detect. With tools becoming more accessible, deepfakes are increasingly used to spread 
+disinformation, damage reputations, and influence public opinion. Social media platforms have become 
+prime venues for such content, amplifying its impact before it can be debunked. Cooke et al. (2024) 
+conducted a large-scale experimental study, revealing that "human detection capabilities are unreliable," 
+with participants only able to distinguish between synthetic and authentic content about 51.2% of the time 
+(equivalent to a coin toss).  
+Future Trends 
+Emerging AI detection systems promise to identify deep-fakes with greater accuracy, 
+incorporating real-time verification methods. However, as deep-fake technology continues to evolve, 
+detection tools will need to become more sophisticated. Cooke et al. (2024) further note that "the rapid 
+scaling of these technologies has led to a dramatic uptick in their abuse," which calls for even more robust 
+countermeasures to address the growing risk.  
+Governments and organizations are already considering legal frameworks to regulate deepfakes, 
+but ethical concerns about balancing free speech with protection against harmful content remain 
+unresolved. As this technology evolves, these frameworks could play a critical role in mitigating misuse 
+while continuing to foster innovation. Cooke et al. (2024) argue that “due to the increasing realism and 
+accessibility of synthetic media, regulatory efforts must be swift and comprehensive to prevent further 
+societal harm.” 
+Relating Actions to Warfare Principles 
+Applying Jomini's Principles to Cybersecurity 
+The principles of warfare, particularly those outlined by military theorist Antoine-Henri Jomini, 
+can provide valuable insights when applied to the realm of cybersecurity. Jomini emphasized concepts 
+like Unity of Command, Maneuver, Surprise, Simplicity, and Economy of Force, which are crucial in 
+shaping successful military strategy. These principles are highly relevant for modern cybersecurity 
+practices, especially in countering emerging threats such as deepfakes, even though historically they have 
+been applied to military strategy.  
+Applying military strategy principles, such as those outlined by Jomini, can guide organizations 
+in crafting an effective cybersecurity strategy: 
+1. Strategic Defense: A defense-in-depth strategy ensures that multiple layers of protection are in 
+place, ensuring that if one defense fails, others can mitigate the impact.  
+2. Offensive Strategies: Proactively counter deepfakes through rapid disinformation removal or 
+counterattacks, reflecting military tactics that emphasize speed and precision (Cooke et al., 2024).  
+3. Adaptability and Surprise: Stay agile in response to new deep-fake techniques to prevent 
+adversaries from exploiting vulnerabilities.  
+4. Deception and Counter-Deception: Counter deepfakes through the release of truthful media, 
+maintaining simplicity and clarity in communication to counter false narratives.  
+5. Economy of Force: Focus resources on high-value targets such as election security or corporate 
+data protection to maximize the impact of defensive efforts. 
+Proposed Concrete Actions for Organizations 
+Organizations must take proactive steps to defend against the growing threat of deepfakes, 
+including the following actions: 
+1. Develop AI-Based Detection Systems: Invest in AI detection systems to identify deep-fakes in 
+real-time. “Speed and precision are key to countering the growing scale of synthetic media” 
+(Cooke et al., 2024). 
+2. Implement Verification Processes: Use cryptographic signatures and timestamping to verify 
+media authenticity. These measures help prevent the spread of manipulated content (Busch & 
+Ware, 2023). 
+3. Train Employees to Recognize Deepfakes: Employees should be trained to identify deepfakes, 
+particularly in high-stakes sectors like politics and finance. As Nehring (2024) suggests, 
+“comprehensive AI education and awareness programs are necessary to strengthen recognition 
+and counteraction capabilities.” 
+4. Collaborate with Tech Platforms: Work with tech companies to establish standards for detecting 
+and combating synthetic media. “A collaborative approach will improve detection and response 
+to deepfakes in digital spaces” (GAO, 2024). 
+5. Develop Legal Policies: Clear legal frameworks are essential to hold creators of synthetic media 
+accountable. “Such policies help prevent misuse while ensuring that laws evolve in response to 
+new technological threats” (Busch & Ware, 2023). 
+Conclusion 
+To combat threats from deep-fake technologies, corporations must implement strategic, multi
+layered defenses that incorporate military principles.  By applying the principles outlined by Jomini 
+[Unity of Command, Maneuver, Surprise, Simplicity, and Economy of Force] organizations can enact 
+strategic defense positions by incorporating Defense in Depth, Deterrence and Response, and Adaptability 
+to implement such measures as rapid disinformation removal, targeted defensive actions, and focused 
+resource allocation. 
+Creating a framework to address the risks posed by synthetic media is essential.  Organizations 
+may implement AI-based detection systems, implement verification processes for digital media, train 
+employees to recognize deepfakes, collaborate with tech platforms, and establish clear legal frameworks.  
+By incorporating these measures an organization may mitigate the growing threats, protect organizational 
+integrity, and maintain public trust as this technology continues to evolve to become an escalating threat 
+to cybersecurity, with its potential to manipulate, exploit, and destabilize digital environments 
+References 
+Beek, K. (2025, March 6). Deepfake videos of YouTube CEO phish creators. Dark Reading. 
+https://www.darkreading.com/remote-workforce/deepfake-videos-youtube-phish-creators 
+Busch, E., & Ware, J. (2023, December). The weaponisation of deepfakes: Digital deception by the far
+right. International Centre for Counter-Terrorism. https://icct.nl/sites/default/files/2023
+12/The%20Weaponisation%20of%20Deepfakes.pdf 
+Cooke, D., Edwards, A., Day, A., Nair, D., Barkoff, S., & Kelly, K. (2024, November 1). Crossing the 
+deepfake rubicon. Center for Strategic and International Studies (CSIS). 
+https://www.csis.org/analysis/crossing-deepfake-rubicon 
+DHS. (n.d.). Increasing threat of deepfake identities. Department of Homeland Security. 
+https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.
+ pdf 
+Hogan, M. (2020, April). White paper on deepfakes and cyber warfare. College of William & Mary. 
+https://www.wm.edu/offices/global-research/research/pips/white_papers/2019-2020/hogan
+final.pdf 
+Liles, S., Rogers, M., Dietz, J. E., & Larson, D. (2012). Applying traditional military principles to cyber 
+warfare. Cyber Conflict Studies Association. 
+https://ccdcoe.org/uploads/2012/01/3_2_LilesDietzRogersLarson_ApplyingTraditionalMilitaryPr
+ inciplesToCyberWarfare.pdf 
+Nehring, C. (2024, July 18). Deepfakes and the military: An overview of use cases, risks, case studies, 
+and countermeasures. LinkedIn. https://www.linkedin.com/pulse/deepfakes-military-overview
+use-cases-risks-case-studies-nehring-tyhee/ 
+Office, U. S. G. A. (2024, March 11). Science & Tech spotlight: Combating deepfakes. Science & Tech 
+Spotlight: Combating Deepfakes | U.S. GAO. https://www.gao.gov/products/gao-24-107292 
+Pearson, J., & Zinets, N. (2022, March 17). Deepfake footage purports to show Ukrainian president 
+capitulating. Reuters. https://www.reuters.com/world/europe/deepfake-footage-purports-show
+ukrainian-president-capitulating-2022-03-16/ 
+Sanchez, F. C., Lin, W., & Korunka, K. (2019, October). Applying irregular warfare principles to cyber. 
+National Defense University Press. https://ndupress.ndu.edu/Portals/68/Documents/jfq/jfq-92/jfq
+92_15-22_Sanchez-Lin-Korunka.pdf 
+Seger, E., Avin, S., Briers, M., Heigeataigh, S., & Bacon, H. (2020, October). Turing. The Alan Turing 
+Institute - Defence and Security Programme. https://www.turing.ac.uk/sites/default/files/2020
+10/epistemic-security-report_final.pdf  
+Skove, S. (2024, April 18). How army special operators use deepfakes and drones to train for information 
+warfare. Defense One. https://www.defenseone.com/technology/2024/04/how-army-special
+operators-use-deepfakes-and-drones-train-information-warfare/395852/ 
+Uppal, R. (2025, March 5). The growing threat of deepfakes: AI-generated videos and audio as tools for 
+terrorism, psychological warfare, and cyber attacks. International Defense Security & 
+Technology. https://idstch.com/threats/the-growing-threat-of-deepfakes-ai-generated-videos-and
+audio-as-tools-for-terrorism-psychological-warfare-and-cyber-attacks/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
